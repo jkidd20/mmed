@@ -1,0 +1,4 @@
+useDynLib(mmed, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
+import(RcppNumerical)
