@@ -24,10 +24,10 @@ in the output from the functions, as well as more details in the help files.
 \author{
 John Kidd
 
-Maintainer: John Kidd <johnkidd@unc.edu>
+Maintainer: John Kidd <jkidd@uvu.edu>
 }
 \references{
-
+Kidd, John, et al. \emph{Mediation analysis of multiple mediators with incomplete omics data.} Genetic Epidemiology (2022).
 \keyword{ mediation, indirect effect, multiple mediators, em algorithm }
 \seealso{
 

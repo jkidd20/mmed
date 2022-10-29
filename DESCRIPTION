@@ -2,12 +2,13 @@ Package: mmed
 Type: Package
 Title: Mediation Analysis allowing for missing data and up to two mediators.
 Version: 0.2.0
-Date: 2020-12-23
+Date: 2022-10-29
 Author: John Kidd
-Maintainer: John Kidd <johnkidd@unc.edu>
+Maintainer: John Kidd <jkidd@uvu.edu>
 Description: A packaged designed to perform mediation analysis in the presence of missing mediator data. 
 Encoding: UTF-8
 License: GPL (>= 2)
 Imports: Rcpp (>= 1.0.5), MASS
 LinkingTo: Rcpp, RcppArmadillo, RcppEigen, RcppDist, RcppNumerical, BH
+Depends: RcppNumerical
 

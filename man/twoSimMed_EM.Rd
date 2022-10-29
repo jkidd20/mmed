@@ -1,5 +1,5 @@
-\name{oneMed_EM}
-\alias{oneMed_EM}
+\name{twoSimMed_EM}
+\alias{twoSimMed_EM}
 \docType{package}
 \title{
 EM Algorithm for mediation analysis with two simultaneous mediators
